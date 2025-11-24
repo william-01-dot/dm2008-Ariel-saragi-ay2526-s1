@@ -1,5 +1,8 @@
 # final Project
 
+ARIEL WILLY SARAGI S U2430024F
+Mengyi U2422442K
+
 For our final project, our team wanted to create a relaxation-based alternative visual, something that reacts to a person’s heartbeat but doesn’t add pressure or stress. We intentionally chose an outer-space theme because when we think of space, it feels like nothingness — but in a comforting way. There’s no noise, no demands, no responsibilities. Just a huge, quiet universe where you don’t have to worry about anything. That sense of openness and emptiness becomes the emotional foundation of the whole visual.
 
 To translate that feeling into code, we built a 3D interactive environment using p5.js with WEBGL. The core logic combines several systems working together:
@@ -23,3 +26,5 @@ Click-Activated Particle Bursts
 If the user clicks, soft white particles burst outward like tiny stars — just a small interactive moment to keep the user engaged without breaking the calmness.
 
 Overall, the entire visual is designed so that nothing feels sharp or stressful. Everything flows, rotates, pulses, and reacts gently. The user’s heartbeat becomes the center of the universe, and the universe responds with calmness. That’s the experience we want to deliver — a space where you can breathe, relax, and just exist.
+
+
