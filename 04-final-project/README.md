@@ -1,7 +1,7 @@
 # final Project
 
 ARIEL WILLY SARAGI S U2430024F
-Mengyi U2422442K
+XU MENGYI U2422442K
 
 For our final project, our team wanted to create a relaxation-based alternative visual, something that reacts to a person’s heartbeat but doesn’t add pressure or stress. We intentionally chose an outer-space theme because when we think of space, it feels like nothingness — but in a comforting way. There’s no noise, no demands, no responsibilities. Just a huge, quiet universe where you don’t have to worry about anything. That sense of openness and emptiness becomes the emotional foundation of the whole visual.
 
