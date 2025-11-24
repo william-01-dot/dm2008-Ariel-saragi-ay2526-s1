@@ -1,1 +1,1 @@
-I added all my activities in here.
+I added all my mini Projects in here.
