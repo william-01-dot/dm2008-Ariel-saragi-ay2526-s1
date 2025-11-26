@@ -156,7 +156,7 @@ function setup() {
   connectBtn.position(20, 20);
   connectBtn.mousePressed(connectBtnClick);
   connectBtn.style('z-index', '100');
-  connectBtn.style('padding', '10px 15px');d
+  connectBtn.style('padding', '10px 15px');
   connectBtn.style('font-size', '16px');
   connectBtn.style('font-family', 'Orbitron, sans-serif');
   connectBtn.style('background-color', '#4CAF50');
